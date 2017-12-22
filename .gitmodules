@@ -1,0 +1,3 @@
+[submodule "moisture-backend"]
+	path = moisture-backend
+	url = https://github.com/wikibootup/moisture-backend
